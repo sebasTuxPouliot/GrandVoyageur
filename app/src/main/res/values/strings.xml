@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GrandVoyageur</string>
+    <string-array name="liste_devises">
+        <item>CAD</item>
+        <item>USD</item>
+    </string-array>
+    <string name="indice_montant">Montant à échanger</string>
+</resources>
